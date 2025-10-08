@@ -12,10 +12,12 @@ Built as part of my **Flutter Internship Assignment (1 Month)**.
 ---
   
   Demo Video: [Watch here](https://drive.google.com/file/d/1Fd8J4npQOwGCBCC2q6dfE8SEicsEpZNQ/view?usp=drivesdk) 
-  ## 🚀 How to Run bash:- 
+  ## 🚀 How to Run 
+  bash:- 
   flutter pub get 
   flutter run
---- ## 🚀 Week 2 Deliverables ### 
+--- 
+## 🚀 Week 2 Deliverables ### 
 ✅ Completed Features 
 - **Baby Setup Screen** to enter baby name and date of birth (saved in SharedPreferences).
 - **Home Screen** with navigation cards:
