@@ -1,4 +1,4 @@
-# 👶 Baby & Mood Tracker App
+#  Baby & Mood Tracker App
 
 A complete Flutter application to log baby activities (feeding, diaper, sleep) and track daily moods — built as part of my **Flutter Internship Assignment (1 Month)** at **Jayadhi Limited**.
 
@@ -18,7 +18,7 @@ It also supports exporting data, reminders, and a polished Material 3 interface 
 ## 🗓️ Project Timeline & Deliverables
 
 ### 🏁 Week 1 — Setup & Foundation
-✅ Deliverables:
+ Deliverables:
 - Flutter project created  
 - Folder structure: `/models`, `/screens`, `/widgets`, `/services`  
 - Onboarding flow (Welcome → Baby Setup → Home)  
@@ -31,7 +31,7 @@ It also supports exporting data, reminders, and a polished Material 3 interface 
 ---
 
 ### ⚙️ Week 2 — Event Logging & Data Persistence
-✅ Completed Features:
+ Completed Features:
 - **Baby Setup Screen** (name + DOB, saved in SharedPreferences)
 - **Home Screen** with navigation cards:
   - Log Feeding  
@@ -48,8 +48,8 @@ It also supports exporting data, reminders, and a polished Material 3 interface 
 
 ---
 
-### 😄 Week 3 — Mood Tracker, Export & Notifications
-✅ Added Features:
+###  Week 3 — Mood Tracker, Export & Notifications
+ Added Features:
 - **Mood Tracker** (5-point slider + optional note) — 1 entry per day  
 - **Data Export:** CSV / JSON for last 7 or 30 days using `share_plus`    
 - **Home Summary Dashboard:**
@@ -61,7 +61,7 @@ It also supports exporting data, reminders, and a polished Material 3 interface 
 ---
 
 ### 🧪 Week 4 — Polish, Testing & Final Submission
-✅ Final Improvements:
+ Final Improvements:
 - UI polish — icons, animations, empty states, error messages  
 - Accessibility — large fonts, color contrast, screen reader labels  
 - Added unit and widget tests:
@@ -71,7 +71,7 @@ It also supports exporting data, reminders, and a polished Material 3 interface 
 - Recorded final demo video  
 - Created 5-slide summary deck (Problem, Features, Architecture, Screenshots, Future Scope)
 
-🎬 **Final Submission Video:** [Watch Here](https://drive.google.com/file/d/1qshiSPxFTQqfmKwTRvNgxP390lW2jZBm/view?usp=drivesdk)
+ **Final Submission Video:** [Watch Here](https://drive.google.com/file/d/1qshiSPxFTQqfmKwTRvNgxP390lW2jZBm/view?usp=drivesdk)
 
 ---
 
