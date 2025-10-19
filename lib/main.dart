@@ -7,6 +7,7 @@ Future<void> main() async {
 
   await Hive.initFlutter();
   await Hive.openBox('events');
+  await Hive.openBox('moods');
 
   runApp(const BabyMoodTracker(startRoute: '/splash'));
 }

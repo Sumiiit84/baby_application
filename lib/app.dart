@@ -7,6 +7,8 @@ import 'screens/diaper_screen.dart';
 import 'screens/feeding_screen.dart';
 import 'screens/sleep_screen.dart';
 import 'screens/timeline_screen.dart';
+import 'screens/mood_screen.dart';
+import 'screens/export_screen.dart';
 
 class BabyMoodTracker extends StatelessWidget {
   final String startRoute;
@@ -48,6 +50,8 @@ class BabyMoodTracker extends StatelessWidget {
         '/diaper': (context) => const DiaperScreen(),
         '/sleep': (context) => const SleepScreen(),
         '/timeline': (context) => const TimelineScreen(),
+        '/mood': (context) => const MoodScreen(),
+        '/export': (context) => const ExportScreen(),
       },
     );
   }
